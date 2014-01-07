@@ -2,8 +2,8 @@
   "modules" : { 
     "meteo"  : {
       "description": "Recherche la météo en ligne",
-      "version": "2.1",
-      "zip": "versailles/78000",
+      "version": "2.2",
+      "zip": "786460",
       "date": "3"
     }
   }
