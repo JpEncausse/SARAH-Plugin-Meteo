@@ -58,7 +58,7 @@ var scrap = function(body, date){
   json.tts  += json.sun + ', '
   
   if (prev.temperatureMin != prev.temperatureMax){
-    json.tts  += 'température entre ' + prev.temperatureMax + ' et ' + prev.temperatureMin + ' degrés';
+    json.tts  += 'température entre ' + prev.temperatureMin + ' et ' + prev.temperatureMax + ' degrés';
   } else {
     json.tts  += 'température de ' + prev.temperatureMin + ' degrés';
   } 
